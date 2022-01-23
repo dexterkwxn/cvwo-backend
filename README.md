@@ -14,8 +14,8 @@
 
 navigate to the backend directory, and do
 
-> go mod tidy
+``` go mod tidy ```
 
 then start the backend with 
 
-> go run .
+``` go run . ```
