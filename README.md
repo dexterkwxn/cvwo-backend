@@ -1,6 +1,6 @@
 # cvwo-backend
 
-# To configure for local set-up, modify the main.go file to include your db config
+To configure for local set-up, modify the main.go file to include your db config
 
 	cfg := mysql.Config{
 		User:   "b128a6f15bb789",
